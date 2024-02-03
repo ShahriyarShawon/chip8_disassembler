@@ -3,6 +3,11 @@
 
 This is an attempt at a chip 8 disassembler, it is not ready to be used and has bugs.
 
+Build:
+```sh 
+make dasm 
+```
+
 
 Test Output
 
